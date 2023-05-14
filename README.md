@@ -1,3 +1,3 @@
 # Getting Started with Create React App
 
-[https://github.com/prashantuchariya1/movieHub](https://movie-hub-liard.vercel.app/)
+[Click here To see Deployed Project on Vercel](https://movie-hub-liard.vercel.app/)
